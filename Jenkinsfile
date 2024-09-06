@@ -23,5 +23,5 @@ pipeline {
                     docker.build('my-java-app:latest')
                 }
   }
+}}
 }
-  }
